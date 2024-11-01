@@ -1,2 +1,2 @@
-# HeloAssistant
+# gymCopter
 Helicopter Autorotation Assistant
