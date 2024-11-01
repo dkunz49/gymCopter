@@ -1,0 +1,2 @@
+# HeloAssistant
+Helicopter Autorotation Assistant
